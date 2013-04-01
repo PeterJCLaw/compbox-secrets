@@ -1,0 +1,6 @@
+Here's some documentation for each line in common.csv.
+
+Name of field                   Description
+================================================================================
+compd_nick                      IRC nick for the compd service.
+compd_user                      IRC user name for the compd service.
